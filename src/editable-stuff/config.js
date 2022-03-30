@@ -46,7 +46,7 @@ const about = {
   imageLink: require("../editable-stuff/sebastian.png"),
   imageSize: 375,
   message:
-    "My name is Sebastian Holguin. I’m a graduate of 2022 from Stony Brook University, New York, with a degree in Applied Mathematics & Information Systems. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering.",
+    "Input message here!",
   resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
@@ -127,14 +127,29 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'JPMC Code for Good Participant',// Here Add Company Name
+      companylogo: require('../assets/img/jpmorganchase.png'),
+      date: 'February 2022',
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'JPMC Virtual Experience Program Participant',
+      companylogo: require('../assets/img/forage.png'),
+      date: 'February 2022',
+    },
+    {
+      role: 'MLH Pre-Fellowship Fellow',
+      companylogo: require('../assets/img/mlh.png'),
+      date: 'July 2021 - August 2021',
+    },
+    {
+      role: 'Software Engineer Apprentice',
+      companylogo: require('../assets/img/codedifferently.png'),
+      date: 'June 2021 - August 2021',
+    },
+    {
+      role: 'iOS Development Student',
+      companylogo: require('../assets/img/codepath.jpg'),
+      date: 'February 2021 - July 2021',
     },
   ]
 }
