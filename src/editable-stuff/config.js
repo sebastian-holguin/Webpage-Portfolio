@@ -58,7 +58,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
+  gitHubUsername: "sebastian-holguin", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
@@ -129,11 +129,6 @@ const experiences = {
     {
       role: 'JPMC Code for Good Participant',// Here Add Company Name
       companylogo: require('../assets/img/jpmorganchase.png'),
-      date: 'February 2022',
-    },
-    {
-      role: 'JPMC Virtual Experience Program Participant',
-      companylogo: require('../assets/img/forage.png'),
       date: 'February 2022',
     },
     {
