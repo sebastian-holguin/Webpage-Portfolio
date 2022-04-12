@@ -46,8 +46,9 @@ const about = {
   imageLink: require("../editable-stuff/sebastian.png"),
   imageSize: 375,
   message:
-    "Input message here!",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "I am a current senior at Stony Brook University pursuing my BS in Applied Mathematics & Statistics and Information Systems. I am very interested in learning new computing software and languages to interlink my knowledge of mathematics with programming to collaborate with teams across the field. "+
+    "I'm looking to step my foot through the door through entry-level software positions and internships. Welcome to my page!",
+  resume: "https://drive.google.com/file/d/1vNVWU0ZKJk5YMtgGJ310ORkAtWY0uxhK/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -58,9 +59,9 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "sebastian-holguin", //i.e."johnDoe12Gh"
-  reposLength: 4,
-  specificRepos: [],
+  gitHubUsername: "sebastian-holguin",
+  reposLength: 0,
+  specificRepos: ["Webpage-Portfolio", "pod-3.1.4-portfolio", "Sneakerscape", "Fitlio"],
 };
 
 // Leadership SECTION
@@ -92,23 +93,21 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
+    { name: "Java", value: 90 },
+    { name: "Python", value: 70 },
+    { name: "Data Structures", value: 70 },
     { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "JavaScript", value: 70 },
+    { name: "MaterialUI", value: 75}
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
+    { name: "Goal-Oriented", value: 90 },
     { name: "Collaboration", value: 90 },
-    { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
+    { name: "Positivity", value: 85 },
+    { name: "Adaptability", value: 95 },
+    { name: "Problem Solving", value: 85 },
     { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
+    { name: "Organization", value: 100 },
     { name: "Creativity", value: 90 },
   ],
 };
@@ -118,8 +117,8 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Machine Learning opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
-  email: "hashirshoaeb@gmail.com",
+    "I'm currently looking for full-time Software Engineering Apprenticeships! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+  email: "sebastian.holguin100@gmail.com",
 };
 
 const experiences = {
