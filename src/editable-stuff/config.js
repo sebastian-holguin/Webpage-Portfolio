@@ -8,7 +8,7 @@ const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
   firstName: "Sebastian",
   middleName: "",
-  lastName: "Holguin",
+  lastName: "Holguinaaa",
   message: " Welcome to my developer portfolio! ",
   icons: [
     {
@@ -48,7 +48,7 @@ const about = {
   message:
     "I am a current senior at Stony Brook University pursuing my BS in Applied Mathematics & Statistics and Information Systems. I am very interested in learning new computing software and languages to interlink my knowledge of mathematics with programming to collaborate with teams across the field. "+
     "I'm looking to step my foot through the door through entry-level software positions and internships. Welcome to my page!",
-  resume: "https://drive.google.com/file/d/1tGo5x3iOheq8Q_4Lvarr4BC_qNgbpjyw/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1tGo5x3iOheq8Q_4Lvarr4BC_qNgbpjyw/view?usp=sharing"
 };
 
 // PROJECTS SECTION
