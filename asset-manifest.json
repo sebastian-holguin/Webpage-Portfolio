@@ -1,27 +1,17 @@
 {
   "files": {
-    "main.css": "/Webpage-Portfolio/static/css/main.f1d10cf0.chunk.css",
-    "main.js": "/Webpage-Portfolio/static/js/main.fe153cce.chunk.js",
-    "main.js.map": "/Webpage-Portfolio/static/js/main.fe153cce.chunk.js.map",
-    "runtime-main.js": "/Webpage-Portfolio/static/js/runtime-main.457bbc14.js",
-    "runtime-main.js.map": "/Webpage-Portfolio/static/js/runtime-main.457bbc14.js.map",
-    "static/js/2.c16f13e4.chunk.js": "/Webpage-Portfolio/static/js/2.c16f13e4.chunk.js",
-    "static/js/2.c16f13e4.chunk.js.map": "/Webpage-Portfolio/static/js/2.c16f13e4.chunk.js.map",
+    "main.css": "/Webpage-Portfolio/static/css/main.06687f2f.css",
+    "main.js": "/Webpage-Portfolio/static/js/main.dd65ebd6.js",
+    "static/media/sebastian.png": "/Webpage-Portfolio/static/media/sebastian.646e31d3b9c8aff90b03.png",
+    "static/media/resume.pdf": "/Webpage-Portfolio/static/media/resume.1e71cd5e9aa80c910767.pdf",
+    "static/media/codepath.jpg": "/Webpage-Portfolio/static/media/codepath.93763cb4205b61cb7b15.jpg",
+    "static/media/jpmorganchase.png": "/Webpage-Portfolio/static/media/jpmorganchase.c5aed582a8fde805bc9f.png",
     "index.html": "/Webpage-Portfolio/index.html",
-    "precache-manifest.a6ad522dadf51db007afb5738082c645.js": "/Webpage-Portfolio/precache-manifest.a6ad522dadf51db007afb5738082c645.js",
-    "service-worker.js": "/Webpage-Portfolio/service-worker.js",
-    "static/css/main.f1d10cf0.chunk.css.map": "/Webpage-Portfolio/static/css/main.f1d10cf0.chunk.css.map",
-    "static/js/2.c16f13e4.chunk.js.LICENSE.txt": "/Webpage-Portfolio/static/js/2.c16f13e4.chunk.js.LICENSE.txt",
-    "static/media/codepath.jpg": "/Webpage-Portfolio/static/media/codepath.e3bbe7d0.jpg",
-    "static/media/hashirshoaeb.png": "/Webpage-Portfolio/static/media/hashirshoaeb.32f6b574.png",
-    "static/media/jpmorganchase.png": "/Webpage-Portfolio/static/media/jpmorganchase.81a1c260.png",
-    "static/media/resume.pdf": "/Webpage-Portfolio/static/media/resume.9d3da0e2.pdf",
-    "static/media/sebastian.png": "/Webpage-Portfolio/static/media/sebastian.8f59b717.png"
+    "main.06687f2f.css.map": "/Webpage-Portfolio/static/css/main.06687f2f.css.map",
+    "main.dd65ebd6.js.map": "/Webpage-Portfolio/static/js/main.dd65ebd6.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.457bbc14.js",
-    "static/js/2.c16f13e4.chunk.js",
-    "static/css/main.f1d10cf0.chunk.css",
-    "static/js/main.fe153cce.chunk.js"
+    "static/css/main.06687f2f.css",
+    "static/js/main.dd65ebd6.js"
   ]
 }
