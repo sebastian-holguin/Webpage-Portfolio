@@ -17,7 +17,7 @@ const mainBody = {
     },
     {
       image: "fa-dev",
-      url: "https://devpost.com/sebastianholguin?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav",
+      url: "https://devpost.com/sebastianholguin",
     },
     {
       image: "fa-linkedin",
@@ -125,6 +125,11 @@ const experiences = {
   show: true,
   heading: "Experiences",
   data: [
+    {
+      role: 'Site Reliability Engineering Fellow',
+      companylogo: require('../assets/img/google.png'),
+      date: 'September 2022',
+    },
     {
       role: 'JPMC Code for Good Participant',// Here Add Company Name
       companylogo: require('../assets/img/jpmorganchase.png'),
