@@ -125,7 +125,7 @@ const experiences = {
       date: 'September 2022',
     },
     {
-      role: 'JPMC Code for Good Participant test',// Here Add Company Name
+      role: 'JPMC Code for Good Participant',// Here Add Company Name
       companylogo: require('../assets/img/jpmorganchase.png'),
       date: 'February 2022',
     },
