@@ -115,6 +115,11 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
+      role: 'Software Engineer 1',
+      companylogo: require('../assets/img/jpmorganchase.png'),
+      date: 'May 2023',
+    },
+    {
       role: 'Site Reliability Engineering Fellow',
       companylogo: require('../assets/img/google.png'),
       date: 'September 2022',
